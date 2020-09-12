@@ -1,2 +1,2 @@
 # fastai
-training examples
+This is few training examples and projects by fastai v2
